@@ -60,12 +60,14 @@
             string reversedLastname = ReverseString(lastName);
             string reversedCityname = ReverseString(cityName);
 
-            Console.Write(string.Format("{0} {1} {2}", 
+            Console.WriteLine(string.Format("{0} {1} {2}", 
                 reversedFirstname, 
                 reversedLastname, 
                 reversedCityname));
 
             Console.WriteLine("Jajajaja esto fue comiteado en GitHub");
+
+            Console.WriteLine("Esto lo hice desde la oficina.");
 
             Console.ReadLine();
         }
