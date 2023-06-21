@@ -67,7 +67,7 @@
 
             Console.WriteLine("Jajajaja esto fue comiteado en GitHub");
 
-            Console.WriteLine("Esto lo hice desde la oficina");
+            Console.WriteLine("Esto lo hice desde la oficina.");
 
             Console.ReadLine();
         }
