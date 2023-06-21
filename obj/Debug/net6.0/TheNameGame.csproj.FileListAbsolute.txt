@@ -13,3 +13,18 @@ G:\Mi unidad\Programación C+\Proyectos C+\TheNameGame\TheNameGame\obj\Debug\net
 G:\Mi unidad\Programación C+\Proyectos C+\TheNameGame\TheNameGame\obj\Debug\net6.0\TheNameGame.pdb
 G:\Mi unidad\Programación C+\Proyectos C+\TheNameGame\TheNameGame\obj\Debug\net6.0\TheNameGame.genruntimeconfig.cache
 G:\Mi unidad\Programación C+\Proyectos C+\TheNameGame\TheNameGame\obj\Debug\net6.0\ref\TheNameGame.dll
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\bin\Debug\net6.0\TheNameGame.exe
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\bin\Debug\net6.0\TheNameGame.deps.json
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\bin\Debug\net6.0\TheNameGame.runtimeconfig.json
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\bin\Debug\net6.0\TheNameGame.dll
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\bin\Debug\net6.0\TheNameGame.pdb
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\TheNameGame.csproj.AssemblyReference.cache
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\TheNameGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\TheNameGame.AssemblyInfoInputs.cache
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\TheNameGame.AssemblyInfo.cs
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\TheNameGame.csproj.CoreCompileInputs.cache
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\TheNameGame.dll
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\refint\TheNameGame.dll
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\TheNameGame.pdb
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\TheNameGame.genruntimeconfig.cache
+C:\Users\50370\source\repos\csura-briloerp\TheNameGame\obj\Debug\net6.0\ref\TheNameGame.dll
